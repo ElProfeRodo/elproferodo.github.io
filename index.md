@@ -4,12 +4,12 @@ Bienvenido a mi sitio personal. Aquí centralizo el material educativo para mis 
 
 ## 👨‍🏫 Docencia Activa
 
-### 🐍 [Fundamentos de Programación](/python/)
+###  [Fundamentos de Programación](/python/)
 Sitio oficial de la asignatura base. Aquí encontrarás las diapositivas y guías para aprender a programar desde cero.
 * **Contenidos:** Lógica, Ciclos (While/For) y Estructuras de Datos.
 * [**➡️ Ir al Material del Curso**](/python/)
 
-### 📡 [Programación de Algoritmos para IoT](/python/)
+###  [Programación de Algoritmos para IoT](/python/)
 Asignatura con enfoque en lógica aplicada a Internet de las Cosas.
 * **Nota:** Para los módulos de programación, utilizamos el repositorio transversal de Python.
 * [**➡️ Ir al Material del Curso**](/python/)
@@ -18,13 +18,13 @@ Asignatura con enfoque en lógica aplicada a Internet de las Cosas.
 
 ## 🎓 Formación Académica
 
-### 🧬 Magíster en Ciencias de la Computación
+###  Magíster en Ciencias de la Computación
 Actualmente cursando estudios de postgrado con enfoque en algoritmos inteligentes y tecnologías aplicadas a la industria.
 
-### 🍎 Diplomado en Docencia para la Educación Superior
+###  Diplomado en Docencia para la Educación Superior
 Especialización en metodologías de enseñanza y evaluación para el aprendizaje en entornos universitarios.
 
-### 💻 Ingeniero en Computación e Informática
+###  Ingeniero en Computación e Informática
 Título profesional base con sólida formación en desarrollo de software, arquitectura de sistemas y gestión TI.
 
 ---
