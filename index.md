@@ -1,5 +1,3 @@
-### Docencia & Ciencias de la Computación
-
 Bienvenido a mi sitio personal. Aquí centralizo el material educativo para mis estudiantes y recursos sobre mis áreas de especialización académica.
 
 ---
