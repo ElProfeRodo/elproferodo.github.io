@@ -26,6 +26,9 @@ Actualmente cursando estudios de postgrado con enfoque en algoritmos inteligente
 ### 🍎 Diplomado en Docencia para la Educación Superior
 Especialización en metodologías de enseñanza y evaluación para el aprendizaje en entornos universitarios.
 
+### 💻 Ingeniero en Computación e Informática
+Título profesional base con sólida formación en desarrollo de software, arquitectura de sistemas y gestión TI.
+
 ---
 
 ## 📝 Publicaciones
