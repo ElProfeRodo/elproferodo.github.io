@@ -1,4 +1,3 @@
-# Rodolfo Fernández-Santibáñez
 ### Docencia & Ciencias de la Computación
 
 Bienvenido a mi sitio personal. Aquí centralizo el material educativo para mis estudiantes y recursos sobre mis áreas de especialización académica.
@@ -7,10 +6,14 @@ Bienvenido a mi sitio personal. Aquí centralizo el material educativo para mis 
 
 ## 👨‍🏫 Docencia Activa
 
-### 🐍 [Fundamentos de Programación (Python)](/python/)
-Sitio oficial de la asignatura. Aquí encontrarás las diapositivas de clase, guías de ejercicios y recursos para aprender a programar.
-* **Contenidos:** Lógica de programación, Ciclos (While/For) y Estructuras de Datos.
-* **Estado:** 🟢 Activo
+### 🐍 [Fundamentos de Programación](/python/)
+Sitio oficial de la asignatura base. Aquí encontrarás las diapositivas y guías para aprender a programar desde cero.
+* **Contenidos:** Lógica, Ciclos (While/For) y Estructuras de Datos.
+* [**➡️ Ir al Material del Curso**](/python/)
+
+### 📡 [Programación de Algoritmos para IoT](/python/)
+Asignatura con enfoque en lógica aplicada a Internet de las Cosas.
+* **Nota:** Para los módulos de programación, utilizamos el repositorio transversal de Python.
 * [**➡️ Ir al Material del Curso**](/python/)
 
 ---
