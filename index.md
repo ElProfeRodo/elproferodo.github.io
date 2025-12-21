@@ -32,3 +32,11 @@ Título profesional con especialización en Ingeniería de Software y Arquitectu
 
 * **Rubio-Manzano, C., Meza, J., Fernández-Santibáñez, R., & Vidal-Castro, C.** (2025). *Teaching Programming in the Age of Generative AI: Insights from Literature, Pedagogical Proposals, and Student Perspectives*. arXiv preprint arXiv:2507.00108.
 [**[📄 Leer Paper]**](https://arxiv.org/pdf/2507.00108)
+
+<br>
+<br>
+
+<small>
+© 2025 Rodolfo Fernández-Santibáñez. <br>
+Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
+</small>
