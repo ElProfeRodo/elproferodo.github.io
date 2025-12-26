@@ -34,6 +34,48 @@ Título profesional con especialización en Ingeniería de Software y Arquitectu
 [**[📄 Leer Paper]**](https://arxiv.org/pdf/2507.00108)
 
 <br>
+
+<section id="contacto" style="padding: 40px 20px; text-align: center; background-color: #f9f9f9;">
+    <h2>📬 Contáctame</h2>
+    <p>¿Tienes alguna duda, idea o propuesta? ¡Hablemos!</p>
+
+    <div style="margin-top: 30px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+        
+        <a href="https://www.linkedin.com/in/rodofer" target="_blank" 
+           style="text-decoration: none; padding: 10px 20px; background-color: #0077b5; color: white; border-radius: 5px; font-weight: bold;">
+            LinkedIn
+        </a>
+
+        <a href="https://github.com/elproferodo" target="_blank" 
+           style="text-decoration: none; padding: 10px 20px; background-color: #333; color: white; border-radius: 5px; font-weight: bold;">
+            GitHub
+        </a>
+
+        <a id="email-btn" href="#" 
+           style="text-decoration: none; padding: 10px 20px; background-color: #ea4335; color: white; border-radius: 5px; font-weight: bold;">
+            ✉️ Cargando...
+        </a>
+
+    </div>
+</section>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const usuario = "contacto"; 
+        const dominio = "elproferodo.cl";
+        const emailCompleto = usuario + "@" + dominio;
+        
+        // Buscamos el botón por su ID
+        const btn = document.getElementById("email-btn");
+        
+        if (btn) {
+            btn.href = "mailto:" + emailCompleto;
+            btn.innerText = "Enviar Correo"; // O si prefieres mostrar la dirección: emailCompleto
+        }
+    });
+</script>
+
+<br>
 <br>
 
 <div align="center">
