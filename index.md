@@ -39,9 +39,9 @@ Título profesional con especialización en Ingeniería de Software y Arquitectu
 
 ¿Tienes alguna duda, idea o propuesta? ¡Hablemos!
 
-* 🔗 **LinkedIn:** [Ver Perfil Profesional](https://www.linkedin.com/in/rodofer)
-* 🐙 **GitHub:** [@ElProfeRodo](https://github.com/elproferodo)
-* 📧 **Correo:** <a id="email-link" href="#">Cargando...</a>
+*  [linkedin.com/in/rodofer](https://www.linkedin.com/in/rodofer)
+*  [github.com/elproferodo](https://github.com/elproferodo)
+*  <a id="email-link" href="#">Cargando...</a>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
