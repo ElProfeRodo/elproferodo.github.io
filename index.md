@@ -35,42 +35,60 @@ Título profesional con especialización en Ingeniería de Software y Arquitectu
 
 <br>
 
-<section id="contacto" style="padding: 40px 20px; text-align: center; background-color: #f9f9f9;">
-    <h2>📬 Contáctame</h2>
-    <p>¿Tienes alguna duda, idea o propuesta? ¡Hablemos!</p>
+<section id="contacto" style="padding: 40px 20px; background-color: #f9f9f9; border-top: 1px solid #e0e0e0;">
+    
+    <h2 style="text-align: center;">📬 Contáctame</h2>
+    <p style="text-align: center; margin-bottom: 30px;">¿Tienes alguna duda, idea o propuesta? ¡Hablemos!</p>
 
-    <div style="margin-top: 30px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        
-        <a href="https://www.linkedin.com/in/rodofer" target="_blank" 
-           style="text-decoration: none; padding: 10px 20px; background-color: #0077b5; color: white; border-radius: 5px; font-weight: bold;">
-            LinkedIn
-        </a>
+    <div style="max-width: 600px; margin: 0 auto;">
+        <ul style="list-style: none; padding: 0; font-size: 1.1em;">
+            
+            <li style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px solid #ddd;">
+                <span style="margin-right: 10px;">🔗</span>
+                <strong>LinkedIn:</strong> 
+                <a href="https://www.linkedin.com/in/rodofer" target="_blank" style="color: #0077b5; text-decoration: none; margin-left: 5px;">
+                    Ver Perfil Profesional
+                </a>
+            </li>
 
-        <a href="https://github.com/elproferodo" target="_blank" 
-           style="text-decoration: none; padding: 10px 20px; background-color: #333; color: white; border-radius: 5px; font-weight: bold;">
-            GitHub
-        </a>
+            <li style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px solid #ddd;">
+                <span style="margin-right: 10px;">🐙</span>
+                <strong>GitHub:</strong> 
+                <a href="https://github.com/elproferodo" target="_blank" style="color: #333; text-decoration: none; margin-left: 5px;">
+                    @ElProfeRodo
+                </a>
+            </li>
 
-        <a id="email-btn" href="#" 
-           style="text-decoration: none; padding: 10px 20px; background-color: #ea4335; color: white; border-radius: 5px; font-weight: bold;">
-            ✉️ Cargando...
-        </a>
+            <li style="margin-bottom: 15px;">
+                <span style="margin-right: 10px;">📧</span>
+                <strong>Correo:</strong> 
+                <a id="email-link" href="#" style="color: #ea4335; text-decoration: none; margin-left: 5px;">
+                    Cargando...
+                </a>
+            </li>
 
+        </ul>
     </div>
 </section>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
+        // Datos para reconstruir el correo
         const usuario = "contacto"; 
         const dominio = "elproferodo.cl";
         const emailCompleto = usuario + "@" + dominio;
         
-        // Buscamos el botón por su ID
-        const btn = document.getElementById("email-btn");
+        // Buscamos el enlace por su nuevo ID 'email-link'
+        const link = document.getElementById("email-link");
         
-        if (btn) {
-            btn.href = "mailto:" + emailCompleto;
-            btn.innerText = "Enviar Correo"; // O si prefieres mostrar la dirección: emailCompleto
+        if (link) {
+            link.href = "mailto:" + emailCompleto;
+            // Aquí decidimos qué texto mostrar. 
+            // Opción A: Mostrar el correo explícito (más académico)
+            link.innerText = emailCompleto; 
+            
+            // Opción B: Dejar un texto genérico como "Enviar Email"
+            // link.innerText = "Enviar Email"; 
         }
     });
 </script>
