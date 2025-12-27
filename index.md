@@ -7,11 +7,10 @@ Bienvenido a mi sitio personal. Aquí centralizo el material educativo para mis 
 
 ## 👨‍🏫 Docencia Activa
 
-### [Fundamentos de Programación](/python/)
-Sitio oficial de la asignatura base. Aquí encontrarás las diapositivas y guías para aprender a programar desde cero.
+### [Fundamentos de Programación](/python)
+Sitio central de la asignatura y recurso educativo abierto. Aquí no solo aprenderás sintaxis, sino que desarrollarás el **pensamiento computacional** necesario para modelar soluciones reales.
 
-### [Programación de Algoritmos para IoT](/python/)
-Asignatura con enfoque en lógica aplicada a Internet de las Cosas.
+Utilizando **Python** como herramienta principal, consolidamos los pilares de la programación estructurada —desde el control de flujo hasta el manejo de datos— construyendo la base técnica indispensable para enfrentar futuros desafíos en la Ingeniería de Software, la Ciencia de Datos y la Inteligencia Artificial.
 
 ---
 
