@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* === TU IDENTIDAD VISUAL: #FE330A === */
+
+/* 1. Enlaces normales */
+a {
+  color: #FE330A !important;
+  text-decoration: none; /* Opcional: quita el subrayado por defecto */
+}
+
+/* 2. Enlaces al pasar el mouse (un tono 15% más oscuro para contraste) */
+a:hover {
+  color: #cc2506 !important;
+  text-decoration: underline;
+}
+
+/* 3. Títulos (H1, H2...) */
+/* Si quieres que tus títulos también tengan el color, descomenta la línea de abajo: */
+/* h1, h2, h3, h4, h5, h6 { color: #FE330A !important; } */
+
+/* 4. Botones (si tu tema usa la clase .btn) */
+.btn {
+  background-color: #FE330A !important;
+  background-image: none !important;
+  border-color: #FE330A !important;
+}
+
+.btn:hover {
+  background-color: #cc2506 !important;
+  border-color: #cc2506 !important;
+}
