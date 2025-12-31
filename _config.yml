@@ -1,3 +1,9 @@
-title: Rodolfo Fernández-Santibáñez
-description: Docencia & Ciencias de la Computación
-show_downloads: false
+title: El Profe Rodo
+email: contacto@elproferodo.cl
+description: >-
+  Portafolio académico y recursos docentes de Rodolfo Fernández-Santibáñez.
+  Cursos de Fundamentos de Programación (Python) y Ciencias de la Computación.
+url: "https://elproferodo.cl"
+lang: es-CL
+plugins:
+  - jekyll-seo-tag
