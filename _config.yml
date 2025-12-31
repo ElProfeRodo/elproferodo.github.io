@@ -8,3 +8,4 @@ lang: es-CL
 google_site_verification: "vIv4UZj4cKELzlCLyv4E0szogARqbzsyAP7yMx8vmj8"
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
