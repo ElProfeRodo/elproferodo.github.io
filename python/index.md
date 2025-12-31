@@ -5,7 +5,7 @@ description: Aprende los fundamentos de la programación con Python. Incluye eje
 permalink: /python/
 ---
 
-# Fundamentos de Programación en Python 🐍
+## Fundamentos de Programación en Python 🐍
 
 Bienvenido al sitio oficial del curso. Aquí encontrarás todo el material revisado en clases.
 
