@@ -7,7 +7,7 @@ Bienvenido a mi sitio personal. Aquí centralizo el material educativo para mis 
 
 ## 👨‍🏫 Docencia Activa
 
-### [Fundamentos de Programación](/python)
+### [Fundamentos de Programación en Python](/python)
 Sitio central de la asignatura y recurso educativo abierto. Aquí no solo aprenderás sintaxis, sino que desarrollarás el pensamiento computacional necesario para modelar soluciones reales.
 
 Utilizando Python como herramienta principal, consolidamos los pilares de la programación estructurada —desde el control de flujo hasta el manejo de datos— construyendo la base técnica indispensable para enfrentar futuros desafíos en Ingeniería de Software, Ciencia de Datos e Inteligencia Artificial.
