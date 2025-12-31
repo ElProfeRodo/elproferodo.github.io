@@ -5,5 +5,6 @@ description: >-
   Cursos de Fundamentos de Programación (Python) y Ciencias de la Computación.
 url: "https://elproferodo.cl"
 lang: es-CL
+google_site_verification: "vIv4UZj4cKELzlCLyv4E0szogARqbzsyAP7yMx8vmj8"
 plugins:
   - jekyll-seo-tag
