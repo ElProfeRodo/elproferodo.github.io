@@ -8,10 +8,37 @@ permalink: /python/while/
 
 En esta lección revisaremos cómo funciona la estructura de control repetitiva `while` y veremos ejemplos de código en vivo.
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 60%;">
+<style>
+    .responsive-slide {
+        position: relative;
+        width: 100%;
+        height: 0;
+        /* AJUSTE MÓVIL: Aquí controlas cómo se ve en el celular */
+        padding-bottom: 62.5%; 
+    }
+    
+    .responsive-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    /* AJUSTE PC: Esto se activa solo si la pantalla es mayor a 768px (Tablets y PC) */
+    @media (min-width: 768px) {
+        .responsive-slide {
+            /* Aquí dejamos el 59.5% que te funcionó perfecto en el escritorio */
+            padding-bottom: 59.5%; 
+        }
+    }
+</style>
+
+<div class="responsive-slide">
     <iframe 
+        class="responsive-iframe"
         src="https://docs.google.com/presentation/d/e/2PACX-1vS6x4FwdGa8S0oC14KSDMlRZEag98dEeJ8aWBKOci_LmFpHoAMvpvhTWMq3irSUVROJYwiNAypPsldQ/pubembed?start=false&loop=false&delayms=3000" 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
         allowfullscreen="true" 
         mozallowfullscreen="true" 
         webkitallowfullscreen="true">
