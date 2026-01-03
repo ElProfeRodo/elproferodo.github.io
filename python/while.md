@@ -21,7 +21,7 @@ En esta lección revisaremos cómo funciona la estructura de control repetitiva 
 ---
 <br>
 
-[⬅️ Volver](/)
+[⬅️ Volver](/python)
 
 <br>
 <br>
