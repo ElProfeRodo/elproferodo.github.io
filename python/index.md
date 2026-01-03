@@ -9,6 +9,12 @@ permalink: /python/
 
 Bienvenido al sitio oficial del curso. Aquí encontrarás todo el material revisado en clases.
 
+### Estructuras de Control
+* Operadores relacionales
+* Operadores lógicos
+* Sentencia If
+* [Ciclo While](while)
+
 ---
 <br>
 
