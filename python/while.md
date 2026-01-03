@@ -14,7 +14,7 @@ En esta lección revisaremos cómo funciona la estructura de control repetitiva 
         width: 100%;
         height: 0;
         /* AJUSTE MÓVIL: Aquí controlas cómo se ve en el celular */
-        padding-bottom: 60%; 
+        padding-bottom: 65%; 
     }
     
     .responsive-iframe {
