@@ -17,3 +17,18 @@ En esta lección revisaremos cómo funciona la estructura de control repetitiva 
         webkitallowfullscreen="true">
     </iframe>
 </div>
+
+---
+<br>
+
+[⬅️ Volver](/)
+
+<br>
+<br>
+
+<div align="center">
+  <small>
+    © 2025 Rodolfo Fernández-Santibáñez. <br>
+    Esta obra está bajo una licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA 4.0</a>.
+  </small>
+</div>
