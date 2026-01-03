@@ -26,11 +26,9 @@ En esta lección revisaremos cómo funciona la estructura de control repetitiva 
         border: 0;
     }
 
-    /* AJUSTE PC: Esto se activa solo si la pantalla es mayor a 768px (Tablets y PC) */
     @media (min-width: 768px) {
         .responsive-slide {
-            /* Aquí dejamos el 59.5% que te funcionó perfecto en el escritorio */
-            padding-bottom: 59.5%; 
+            padding-bottom: 60%; 
         }
     }
 </style>
