@@ -4,7 +4,7 @@ title: Ciclo While
 permalink: /python/while/
 ---
 
-# El Ciclo While en Python
+## Ciclo While
 
 En esta lección revisaremos cómo funciona la estructura de control repetitiva `while` y veremos ejemplos de código en vivo.
 
