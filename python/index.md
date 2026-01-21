@@ -12,7 +12,7 @@ Bienvenido al sitio oficial del curso. Aquí encontrarás todo el material revis
 ### Estructuras de Control
 * Operadores relacionales
 * Operadores lógicos
-* Sentencia If
+* [Sentencia If](if)
 * [Ciclo While](while)
 
 ---
