@@ -6,14 +6,11 @@ permalink: /python/while/
 
 ## Ciclo While
 
-En esta lección revisaremos cómo funciona la estructura de control repetitiva `while` y veremos ejemplos de código en vivo.
-
 <style>
     .responsive-slide {
         position: relative;
         width: 100%;
         height: 0;
-        /* AJUSTE MÓVIL: Aquí controlas cómo se ve en el celular */
         padding-bottom: 66.8%; 
     }
     
