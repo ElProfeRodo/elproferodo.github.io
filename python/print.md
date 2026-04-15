@@ -31,11 +31,9 @@ permalink: /python/print/
 </style>
 
 <div class="responsive-slide">
-    <iframe 
-        class="responsive-iframe"
-        src="https://docs.google.com/presentation/d/e/2PACX-1vTZVyMSzo9Iz-Qmnk3GWwPUCX5lCZIEwri0T1sSMjhVp9uW-u_mxTdlF4u4-36Y2C3aRc_kDW1ZjMi6/pubembed?start=false&loop=false&delayms=3000" 
-        allowfullscreen="true" 
-        mozallowfullscreen="true" 
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKD7AHevoCnm3Mrp0stuext64Gub7GPbjyfUMFjIPiAcgsxDU6eghHLrqhKkZeZ7cVGMoIVTbUFdPD/pubembed?start=false&loop=false&delayms=3000"
+        allowfullscreen="true"
+        mozallowfullscreen="true"
         webkitallowfullscreen="true">
     </iframe>
 </div>
