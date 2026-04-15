@@ -9,6 +9,10 @@ permalink: /python/
 
 Bienvenido al sitio oficial del curso. Aquí encontrarás todo el material revisado en clases.
 
+### Entrada y Salida de datos
+* Función Print
+* Función Input
+
 ### Estructuras de Control
 * Operadores relacionales
 * Operadores lógicos
